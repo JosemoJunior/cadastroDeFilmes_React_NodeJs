@@ -1,8 +1,8 @@
 import { Sequelize } from "sequelize";
 
 const DBNAME = "db_filmes";
-const DBUSERNAME = "root";
-const DBPASSWORD = "123456";
+const DBUSERNAME = "";
+const DBPASSWORD = "";
 const DBHOST = "localhost";
 const DBPORT = "3306";
 
